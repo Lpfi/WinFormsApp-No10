@@ -1,0 +1,27 @@
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\WinFormsApp No10.exe
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\WinFormsApp No10.deps.json
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\WinFormsApp No10.runtimeconfig.json
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\WinFormsApp No10.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\WinFormsApp No10.pdb
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp_No10.Form1.resources
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.csproj.GenerateResource.cache
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.AssemblyInfoInputs.cache
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.AssemblyInfo.cs
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.csproj.CoreCompileInputs.cache
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\refint\WinFormsApp No10.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.pdb
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.genruntimeconfig.cache
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\ref\WinFormsApp No10.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp No10.csproj.AssemblyReference.cache
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinFormsApp_No10.QuizChoiceControl.resources
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\WinFormsApp No10.dll.config
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\obj\Debug\net8.0-windows\WinForms.28B922F2.Up2Date
+C:\Users\7356086\source\repos\WinFormsApp No10\WinFormsApp No10\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
